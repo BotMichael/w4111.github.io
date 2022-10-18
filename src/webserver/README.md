@@ -3,7 +3,7 @@ Use Python 3
 
 Install libraries
 
-        pip install click, flask, sqlalchemy
+        pip install click flask sqlalchemy
 
 
 Edit `server.py` to set your database URI
